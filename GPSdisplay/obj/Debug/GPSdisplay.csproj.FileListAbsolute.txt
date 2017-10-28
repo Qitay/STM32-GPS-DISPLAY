@@ -1,0 +1,28 @@
+c:\users\qitay\documents\visual studio 2013\Projects\GPSdisplay\GPSdisplay\bin\Debug\GPSdisplay.exe.config
+c:\users\qitay\documents\visual studio 2013\Projects\GPSdisplay\GPSdisplay\bin\Debug\GPSdisplay.exe
+c:\users\qitay\documents\visual studio 2013\Projects\GPSdisplay\GPSdisplay\bin\Debug\GPSdisplay.pdb
+c:\users\qitay\documents\visual studio 2013\Projects\GPSdisplay\GPSdisplay\obj\Debug\GPSdisplay.csprojResolveAssemblyReference.cache
+c:\users\qitay\documents\visual studio 2013\Projects\GPSdisplay\GPSdisplay\obj\Debug\GPSdisplay.Properties.Resources.resources
+c:\users\qitay\documents\visual studio 2013\Projects\GPSdisplay\GPSdisplay\obj\Debug\GPSdisplay.csproj.GenerateResource.Cache
+c:\users\qitay\documents\visual studio 2013\Projects\GPSdisplay\GPSdisplay\obj\Debug\GPSdisplay.exe
+c:\users\qitay\documents\visual studio 2013\Projects\GPSdisplay\GPSdisplay\obj\Debug\GPSdisplay.pdb
+C:\Users\Qitay\documents\visual studio 2013\Projects\GPSdisplay\GPSdisplay\obj\Debug\GPSdisplay.Form1.resources
+C:\Users\Qitay\Desktop\GPSdisplay\GPSdisplay\bin\Debug\GPSdisplay.exe.config
+C:\Users\Qitay\Desktop\GPSdisplay\GPSdisplay\obj\Debug\GPSdisplay.exe
+C:\Users\Qitay\Desktop\GPSdisplay\GPSdisplay\obj\Debug\GPSdisplay.pdb
+C:\Users\Qitay\Desktop\GPSdisplay\GPSdisplay\bin\Debug\GPSdisplay.exe
+C:\Users\Qitay\Desktop\GPSdisplay\GPSdisplay\bin\Debug\GPSdisplay.pdb
+C:\Users\Qitay\Desktop\GPSdisplay\GPSdisplay\obj\Debug\GPSdisplay.csprojResolveAssemblyReference.cache
+C:\Users\Qitay\Desktop\GPSdisplay\GPSdisplay\obj\Debug\GPSdisplay.Form1.resources
+C:\Users\Qitay\Desktop\GPSdisplay\GPSdisplay\obj\Debug\GPSdisplay.Properties.Resources.resources
+C:\Users\Qitay\Desktop\GPSdisplay\GPSdisplay\obj\Debug\GPSdisplay.csproj.GenerateResource.Cache
+C:\Users\Qitay\Desktop\ProjektGPS_Michał_Klempka_Damian_Gołębiowski\GPSdisplay\GPSdisplay\bin\Debug\GPSdisplay.exe.config
+C:\Users\Qitay\Desktop\ProjektGPS_Michał_Klempka_Damian_Gołębiowski\GPSdisplay\GPSdisplay\bin\Debug\GPSdisplay.exe
+C:\Users\Qitay\Desktop\ProjektGPS_Michał_Klempka_Damian_Gołębiowski\GPSdisplay\GPSdisplay\bin\Debug\GPSdisplay.pdb
+C:\Users\Qitay\Desktop\ProjektGPS_Michał_Klempka_Damian_Gołębiowski\GPSdisplay\GPSdisplay\obj\Debug\GPSdisplay.csprojResolveAssemblyReference.cache
+C:\Users\Qitay\Desktop\ProjektGPS_Michał_Klempka_Damian_Gołębiowski\GPSdisplay\GPSdisplay\obj\Debug\GPSdisplay.Form1.resources
+C:\Users\Qitay\Desktop\ProjektGPS_Michał_Klempka_Damian_Gołębiowski\GPSdisplay\GPSdisplay\obj\Debug\GPSdisplay.Properties.Resources.resources
+C:\Users\Qitay\Desktop\ProjektGPS_Michał_Klempka_Damian_Gołębiowski\GPSdisplay\GPSdisplay\obj\Debug\GPSdisplay.csproj.GenerateResource.Cache
+C:\Users\Qitay\Desktop\ProjektGPS_Michał_Klempka_Damian_Gołębiowski\GPSdisplay\GPSdisplay\obj\Debug\GPSdisplay.csproj.CoreCompileInputs.cache
+C:\Users\Qitay\Desktop\ProjektGPS_Michał_Klempka_Damian_Gołębiowski\GPSdisplay\GPSdisplay\obj\Debug\GPSdisplay.exe
+C:\Users\Qitay\Desktop\ProjektGPS_Michał_Klempka_Damian_Gołębiowski\GPSdisplay\GPSdisplay\obj\Debug\GPSdisplay.pdb
